@@ -2,7 +2,7 @@
 - 👀 I’m interested in modelling and programming
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me its secret
+- 📫 How to reach me this is secret
 
 <!---
 MorderTop31/MorderTop31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
